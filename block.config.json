@@ -1,0 +1,8 @@
+{
+  "name": "test_block_t2",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/vinilunni/test_block_t2",
+    "ssh": "git@github.com:vinilunni/test_block_t2.git"
+  }
+}
